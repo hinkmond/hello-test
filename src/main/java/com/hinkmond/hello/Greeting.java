@@ -1,5 +1,6 @@
 package com.hinkmond.hello;
 
+
 public class Greeting {
 
     private final long id;
